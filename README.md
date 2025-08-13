@@ -71,7 +71,7 @@ Durante o bootcamp GFT Start #7 .NET, aprendi e pratiquei conceitos fundamentais
 
 - Boas práticas de programação e manutenção de código.
 
-Diante muitas dificuldades que tive durante o lab com direito até o pc dar problema e eu pensar que nao conseguiria concluir o bootcamp na data que eu previa esse aprendizado fortaleceu minha base em C#, .NET e APIs REST, além de me dar noções práticas de integração com banco de dados e computação em nuvem, preparando-me para atuar como desenvolvedor .NET em projetos reais.
+Apesar das diversas dificuldades enfrentadas durante o bootcamp — incluindo problemas no computador e momentos em que pensei que não conseguiria concluir no prazo — essa jornada foi essencial para fortalecer minha base em C#, .NET e APIs REST. Além disso, adquiri conhecimentos práticos sobre integração com bancos de dados e computação em nuvem, consolidando minha preparação para atuar como desenvolvedor .NET em projetos reais.
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # resumo Microsoft Azure
 O Microsoft Azure é a plataforma de computação em nuvem da Microsoft, que oferece uma ampla gama de serviços para empresas e desenvolvedores.
